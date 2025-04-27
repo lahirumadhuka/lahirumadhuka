@@ -25,8 +25,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
 ![](https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
