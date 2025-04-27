@@ -35,6 +35,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <img src="assets/patrick-bateman.gif" width="180" align="right" />
 
-![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)</br>
+
+<div align="center">
+  <img src="assets/breaking bad.gif" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000080&section=footer&textBg=false&reversal=false"/>
