@@ -34,8 +34,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<img src="assets/patrick-bateman.gif" width="180" align="right" /></br>
+<div>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <img src="assets/patrick-bateman.gif" width="180" align="right" />
+</div>
 
 ## 🟩 My Contributions
 ![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)</br>
