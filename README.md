@@ -35,7 +35,7 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<img src="assets/patrick-bateman.gif" width="180" align="right" />
+<img src="assets/patrick-bateman.gif" width="180" align="right" /></br>
 
 ## 🟩 My Contributions
 ![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)</br>
