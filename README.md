@@ -9,7 +9,7 @@
 </div></br>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=300&color=000080&center=true&width=1000&height=75&lines=I'm+Lahiru+Madhuka+from+Sri+Lanka;Software+Engineer🐧;Full+Stack+Developer🦆;Passionate+about+Data+Science🔬+and+AI🤖;Tech+Enthusiast🥷🏻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=300&color=000080&center=true&width=1000&height=75&lines=I'm+Lahiru+Madhuka+from+Sri+Lanka🏝️;Software+Engineer🐧;Full+Stack+Developer🦆;Passionate+about+Data+Science🔬+and+AI🤖;Tech+Enthusiast🥷🏻" alt="Typing SVG" />
 </a>
 
 As an undergraduate software engineer, I am passionate about coding and creating innovative solutions to real-world problems, with a strong foundation in programming languages and a drive to continuously learn and grow in the field of software development.
