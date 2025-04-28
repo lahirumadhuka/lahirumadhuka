@@ -38,7 +38,7 @@ I'm an enthusiastic Undergraduate Software Engineer at the Open University of Sr
 <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="left" />
     <img src="assets/patrick-bateman.gif" width="160" align="right"/>
-</div></br></br></br></br></br></br>
+</div></br></br></br></br></br></br></br>
 
 ## 🟩 My Contributions
 ![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)</br>
