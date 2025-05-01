@@ -98,11 +98,11 @@
 <!-- GitHub Stats -->
 <h1>📊 GitHub Stats</h1>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" align="left" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false" align="right"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false" />
 </div>
 
 <!-- GitHub Trophies -->
@@ -118,7 +118,7 @@
 
 <!-- My Contributions -->
 <h2>🟩 My Contributions</h2>
-<img src="https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg" /></br>
+<img src="https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg" />
 
 <div align="center">
   <img src="assets/breaking bad.gif" />
