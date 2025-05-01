@@ -12,14 +12,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=300&color=000080&center=true&width=1000&height=75&lines=I'm+Lahiru+Madhuka+from+Sri+Lanka🏝️;Software+Engineer🐧;Full+Stack+Developer🦆;Passionate+about+Data+Science🔬+and+AI🤖;Tech+Enthusiast🥷🏻" alt="Typing SVG" />
 </a>
 
-I'm an enthusiastic Undergraduate Software Engineer at the Open University of Sri Lanka (OUSL), with a passion for Software Development. I thrive on tackling complex challenges and building innovative solutions. My interests span across Data Science and AI, and I'm always exploring the latest in tech.
+<!-- About Me -->
+<p align="justify">I'm an enthusiastic Undergraduate Software Engineer at the Open University of Sri Lanka (OUSL), with a passion for Software Development. I thrive on tackling complex challenges and building innovative solutions. My interests span across Data Science and AI, and I'm always exploring the latest in tech.</p>
 
-## 🌐 Socials
+<!-- Socials -->
+<h2>🌐 Socials</h2>
 <div align="left">
     <a href="https://linkedin.com/in/lahiru-madhuka" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
 
-# 💻 Tech Stack
+<!-- Tech Stack -->
+<h1>💻 Tech Stack</h1>
 <div align="center">
     <img src="assets/time-lapse.gif" width="300" />
 </div></br>
@@ -92,22 +95,30 @@ I'm an enthusiastic Undergraduate Software Engineer at the Open University of Sr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- GitHub Stats -->
+<h1>📊 GitHub Stats</h1>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" align="left" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false" align="right"/>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+<!-- GitHub Trophies -->
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4" />
 
-## ✍️ Random Dev Quote
+<!-- Random Dev Quote -->
+<h2>✍️ Random Dev Quote</h2>
 <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="left" />
     <img src="assets/patrick-bateman.gif" width="160" align="right"/>
 </div></br></br></br></br></br></br></br>
 
-## 🟩 My Contributions
-![Snake animation](https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg)</br>
+<!-- My Contributions -->
+<h2>🟩 My Contributions</h2>
+<img src="https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg" /></br>
 
 <div align="center">
   <img src="assets/breaking bad.gif" />
