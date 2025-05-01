@@ -99,9 +99,7 @@
 <h1>📊 GitHub Stats</h1>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="right" />
-</div>
-<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="top" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false" />
 </div>
 
@@ -113,7 +111,7 @@
 <h2>✍️ Random Dev Quote</h2>
 <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="left" />
-    <img src="assets/patrick-bateman.gif" width="160" align="right"/>
+    <img src="assets/patrick-bateman.gif" width="160" align="right" />
 </div></br></br></br></br></br></br></br>
 
 <!-- My Contributions -->
