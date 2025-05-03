@@ -110,6 +110,13 @@
     &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
+<!-- GitHub Trophies -->
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4" />
+
+<!-- Top Contributed Repo -->
+<h2>🔝 Top Contributed Repo</h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=lahirumadhuka&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
 
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
