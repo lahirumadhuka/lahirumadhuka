@@ -106,14 +106,10 @@
 <!-- GitHub Stats -->
 <h1>📊 GitHub Stats</h1>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="top" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=lahirumadhuka&theme=blue_navy&hide_border=false" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
-<!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4" />
 
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
