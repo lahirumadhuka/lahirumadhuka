@@ -130,7 +130,7 @@
 <img src="https://raw.githubusercontent.com/lahirumadhuka/lahirumadhuka/output/github-contribution-grid-snake-dark.svg" />
 
 <div align="center">
-  <img src="assets/handshake.gif" width="400" />
+  <img src="assets/octocat.png" width="400" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000080&section=footer&textBg=false&reversal=false"/>
