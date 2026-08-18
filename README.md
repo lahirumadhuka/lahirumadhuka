@@ -28,7 +28,7 @@
 </div>
 
 <h2>💻 Programming Languages</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,php" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,php" />
 
 <h2>🎨 Frontend Development</h2>
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind,nextjs" />
