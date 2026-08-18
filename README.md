@@ -13,7 +13,7 @@
 </a>
 
 <!-- About Me -->
-<p align="justify">I'm an enthusiastic Undergraduate Software Engineer at the Open University of Sri Lanka (OUSL), with a passion for Software Development. I thrive on tackling complex challenges and building innovative solutions. My interests span across Data Science and AI, and I'm always exploring the latest in tech.</p>
+<p align="justify">I'm a Software Engineering undergraduate based in Sri Lanka, passionate about full-stack development and Artificial Intelligence, and interested in building practical software solutions for real-world problems.</p>
 
 <!-- Socials -->
 <h2>🌐 Socials</h2>
@@ -118,5 +118,7 @@
 <div align="center">
   <img src="assets/octocat.png" width="400" />
 </div>
+
+<div align="center">⭐ Feel free to explore my repositories and projects!</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000080&section=footer&textBg=false&reversal=false"/>
