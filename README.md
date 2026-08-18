@@ -102,14 +102,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-</br>
 
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
-<div>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="left" />
-    <img src="assets/patrick-bateman.gif" width="160" align="right" />
-</div></br></br></br></br></br></br></br>
+<span><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></span>
+&nbsp;&nbsp;
+<span><img src="assets/patrick-bateman.gif" width="200" /></span>
 
 <!-- My Contributions -->
 <h2>🟩 My Contributions</h2>
@@ -119,6 +117,7 @@
   <img src="assets/octocat.png" width="400" />
 </div>
 
+<div align="center">Thanks for visiting my profile! 👋</div>
 <div align="center">⭐ Feel free to explore my repositories and projects!</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000080&section=footer&textBg=false&reversal=false"/>
