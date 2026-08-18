@@ -9,7 +9,7 @@
 </div></br>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=300&color=000080&center=true&width=1000&height=75&lines=I'm+Lahiru+Madhuka+from+Sri+Lanka🏝️;Software+Engineer🐧;Full+Stack+Developer🦆;Passionate+about+Data+Science🔬+and+AI🤖;Tech+Enthusiast🥷🏻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4500&pause=300&color=000080&center=true&width=1000&height=75&lines=I'm+Lahiru+Madhuka+from+Sri+Lanka🏝️;Software+Engineer🐧;Full+Stack+Developer🦆;AI+Engineer🤖" alt="Typing SVG" />
 </a>
 
 <!-- About Me -->
@@ -102,21 +102,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-<!-- GitHub Stats -->
-<h1>📊 GitHub Stats</h1>
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirumadhuka&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
-
-<!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=lahirumadhuka&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4" />
-
-<!-- Top Contributed Repo -->
-<h2>🔝 Top Contributed Repo</h2>
-<img src="https://github-contributor-stats.vercel.app/api?username=lahirumadhuka&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" />
+</br>
 
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
