@@ -106,7 +106,7 @@
 <!-- Random Dev Quote -->
 <h2>✍️ Random Dev Quote</h2>
 <span><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></span>
-&nbsp;&nbsp;
+&nbsp;
 <span><img src="assets/patrick-bateman.gif" width="200" /></span>
 
 <!-- My Contributions -->
